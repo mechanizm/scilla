@@ -1,3 +1,8 @@
+> [!WARNING]
+> **Archived legacy fork:** This fork is no longer maintained. It is preserved for
+> historical reference and is read-only. Do not use it for new projects; use it
+> at your own risk.
+
 # Scilla: A Smart Contract Intermediate Level Language
 
 [![Build Status](https://travis-ci.com/Zilliqa/scilla.svg?token=7qzjATfZuxTQvRjMHPVQ&branch=master)](https://travis-ci.com/Zilliqa/scilla)
